@@ -14,7 +14,7 @@ This is a FastAPI-based API for tracking fitness progress, including users' work
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/fitness-progress-api.git
+    git clone https://github.com/keremsemiz/fitness-track-api.git
     cd fitness-progress-api
     ```
 
@@ -32,7 +32,7 @@ This is a FastAPI-based API for tracking fitness progress, including users' work
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/fitness-progress-api.git
+    git clone https://github.com/keremsemiz/fitness-track-api.git
     cd fitness-progress-api
     ```
 
